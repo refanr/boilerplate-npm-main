@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Reynir Gunnarsson",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"node": "^20.7.0"
 	},
 	"main": "server.js",
 	"scripts": {
